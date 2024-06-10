@@ -1,0 +1,21 @@
+bindings.rs
+Cargo.lock
+
+# build
+build/
+# clangd
+.clangd/
+.cache/clangd/
+compile_commands.json
+
+# vim session file
+Session.vim
+# vscode
+*.workspace
+*.code-workspace
+.vscode/
+
+
+# Added by cargo
+
+/target
